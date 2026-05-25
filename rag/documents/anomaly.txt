@@ -1,0 +1,5 @@
+Anomaly detection is used to identify unusual patterns in retail sales data. Examples of anomalies include sudden spikes in weekly sales, abnormal customer behavior, or unexpected drops in revenue.
+
+Isolation Forest is a popular machine learning algorithm for anomaly detection. It works by isolating unusual data points from normal patterns.
+
+Retail companies use anomaly detection systems to identify fraud, operational issues, inventory problems, and unexpected business events.

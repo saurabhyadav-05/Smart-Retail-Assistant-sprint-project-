@@ -1,0 +1,5 @@
+Demand forecasting is the process of predicting future sales using historical data, seasonal trends, and economic indicators. Retail companies use forecasting models to improve inventory planning, staffing, and supply chain operations.
+
+Machine learning algorithms such as Random Forest Regression can analyze historical retail data and predict future weekly sales with high accuracy.
+
+Features such as holiday events, fuel prices, temperature, unemployment rate, and inflation often influence retail demand patterns.
